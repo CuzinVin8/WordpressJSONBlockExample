@@ -1,0 +1,14 @@
+{
+    "name": "acf/videogrid",
+    "title": "Video Grid",
+    "description": "Grid of videos that link to other pages",
+    "style": [ "file:videogrid.css" ],
+    "category": "formatting",
+    "icon": "admin-comments",
+    "keywords": ["video", "grid"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "videogrid.php"
+    },
+    "align": "full"
+}
